@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-prabakaran.netlify.app/](https://portfolio-prabakaran.netlify.app/)
+
 
 - 📫 How to reach me **prabakaranpkv@gmail.com**
 
